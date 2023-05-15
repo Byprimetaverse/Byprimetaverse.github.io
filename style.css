@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgb(254, 253, 253);
+}
+
+#Tentang {
+  background-color: #deb887;
+}
+
+#Store {
+  background-color: #deb887;
+}
+
+footer {
+  background-color: #deb887;
+  padding-bottom: 2rem;
+}
+
+section {
+  padding-top: 5rem;
+}
